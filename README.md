@@ -1,17 +1,35 @@
 # Movie Recommendation System
 
-## Dataset Preview
+## Project Overview
 
-![Dataset](screenshots/dataset_preview.png)
+A content-based movie recommendation system built using Python, NLP, and Scikit-Learn.
 
-## Feature Engineering
+## Features
 
-![Features](screenshots/feature_engineering.png)
+- Content-based filtering
+- NLP text processing
+- Cosine similarity recommendations
+- TMDB movie poster integration
 
-## Vectorization
+## Technologies Used
 
-![Vectors](screenshots/vectorization.png)
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- NLTK
+- Streamlit
 
-## Recommendation Output
+## Screenshots
 
-![Recommendation](screenshots/recommendation_output.png)
+(Add screenshots here)
+
+## Results
+
+The system recommends movies similar to a selected movie using content similarity analysis.
+
+## Future Improvements
+
+- Hybrid recommendation system
+- User-based recommendations
+- TMDB ratings integration
